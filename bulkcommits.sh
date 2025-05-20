@@ -42,3 +42,4 @@ else
     createNewCommits
     echo "'${totalCommitCount}' new commits are created..... "
 fi
+
